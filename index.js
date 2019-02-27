@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 
 
 function iLoveTheBeatles(number){
-  var i={};
+  var array = [];
   do {}
   while (n<15)
   return array
